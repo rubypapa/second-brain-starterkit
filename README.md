@@ -35,4 +35,23 @@
 - 새 세션 → hook가 알아서 과거를 읽음. 이어서 일하면 됨.
 
 ---
+
+## 🔗 같이 보면 좋은 것
+
+| 저장소 | 뭘 하나 |
+|---|---|
+| **[second-brain-guardrails](https://github.com/rubypapa/second-brain-guardrails)** | 이 킷에 **"AI 행동 강제"** 한 겹 추가 — 통보하고 박기·넘겨짚기·영합 방지 |
+| **[localtts](https://github.com/rubypapa/localtts)** | 로컬 한국어 TTS 나레이터. ElevenLabs 없이 GPU로 고정 목소리 |
+| **[local-first-ai-router](https://github.com/rubypapa/local-first-ai-router)** | 간단한 질문은 오프라인(Ollama), 어려운 것만 Claude로 — 요금 절약 |
+
+## 📺 만드는 과정
+
+유튜브 **[클로드 빌더 루비파파](https://www.youtube.com/@rubypapaAI)** — 코딩 0줄로 만드는 과정을 그대로 공개합니다.
+삽질도 실패도 다 찍습니다.
+
+## 📄 라이선스
+
+MIT — 마음대로 쓰고, 고치고, 배포하세요.
+
+---
 *어색하거나 막히면 영상 댓글로 알려주세요 — 계속 다듬습니다.*
